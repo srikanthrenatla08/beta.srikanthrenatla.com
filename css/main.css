@@ -92,6 +92,7 @@ PRE LOADER
 	}
 	.main_header h3
 	{
+        font-weight: bolder;
 		font-size: 45px;
 		letter-spacing: 18px;
 		font-family: 'Lato', sans-serif;
@@ -109,7 +110,7 @@ PRE LOADER
     font-size: 35px;
     display: inline-block;
     overflow: hidden;
-    margin-top: 115px;
+    margin-top: 45px;
 	transition:.3s ease-in-out;
 	}
 	.homepage a i:hover{
