@@ -110,7 +110,7 @@ PRE LOADER
     font-size: 35px;
     display: inline-block;
     overflow: hidden;
-    margin-top: 45px;
+    margin-top: 5%;
 	transition:.3s ease-in-out;
 	}
 	.homepage a i:hover{
@@ -307,6 +307,7 @@ PRE LOADER
 @media only screen and (max-width :800px) {
 
 .header_area{min-height:300px;}
+.my_name{margin-top:-15%}
 }
 
 
