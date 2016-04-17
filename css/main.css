@@ -230,7 +230,7 @@ PRE LOADER
 	}
 	
 	.contact_area{
-		margin:150px 0;
+		margin:5% 0;
 		padding:10px;
 	}
 	
@@ -304,7 +304,10 @@ PRE LOADER
     }	
 
 
+@media only screen and (max-width :800px) {
 
+.header_area{min-height:300px;}
+}
 
 
 

@@ -429,7 +429,7 @@ h3.tittle {
 /*--experience-starts--*/
 .experience {
   padding-top: 5em;
-  min-height: 856px;
+  min-height: 750px;
    background-color: #fff;
 }
 .experience-top{
@@ -1688,7 +1688,7 @@ h3.tittle.two {
 	}
 	.experience {
 	  padding-top: 3em;
-	  min-height: 1114px;
+	  min-height: 630px;
 	}
 	ul.side_nav {
 	  position: fixed;
@@ -1809,7 +1809,7 @@ h3.tittle.two {
 	}
 	.experience {
 	  padding-top: 3em;
-	  min-height: 1114px;
+	  min-height: 650px;
 	}
 	ul.side_nav {
 	  position: fixed;
@@ -1936,7 +1936,7 @@ h3.tittle.two {
 	}
 	.experience {
 	  padding-top: 3em;
-	  min-height: 1114px;
+	  min-height: 630px;
 	}
 	ul.side_nav {
 	  position: fixed;
@@ -1977,7 +1977,7 @@ h3.tittle.two {
 	  }
 	  .experience {
 	  padding-top: 2em;
-	   min-height: 1068px;
+	   min-height: 630px;
 	}
 	.contact-form textarea {
 	  height: 131px;
